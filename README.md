@@ -1,6 +1,6 @@
 # TrainTogether
 
-TrainTogether is a web application that helps users create custom workout plans based on their location and fitness goals. With TrainTogether, users can easily find nearby fitness corners and food facilities, manage their exercise plans, schedule workouts, and track their progress.
+TrainTogether is a web application that helps users create custom workout plans based on their location and fitness goals. With TrainTogether, users can easily find nearby fitness corners and food facilities, manage their exercise plans, schedule workouts, and track their progress. Addional Information can be found in `Sofware Requirement Specification.pdf`
 
 ## Product Functions
 The TrainTogether Application provides the following main functions:
